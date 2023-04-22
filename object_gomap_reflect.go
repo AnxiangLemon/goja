@@ -3,7 +3,7 @@ package goja
 import (
 	"reflect"
 
-	"github.com/dop251/goja/unistring"
+	"github.com/AnxiangLemon/goja/unistring"
 )
 
 type objectGoMapReflect struct {
